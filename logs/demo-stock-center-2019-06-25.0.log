@@ -1,0 +1,18 @@
+2019-06-25 18:53:07.431 INFO   [,]  [restartedMain] c.z.s.s.DemoStockCenterProviderApplication: - Starting DemoStockCenterProviderApplication on DESKTOP-JESJ2F8 with PID 21636 (D:\JAVA\developer\studyProgram\demoStockCenter\demo-stock-center-provider\target\classes started by 11190 in D:\JAVA\developer\studyProgram\demoStockCenter)
+2019-06-25 18:53:07.439 INFO   [,]  [restartedMain] c.z.s.s.DemoStockCenterProviderApplication: - The following profiles are active: dev
+2019-06-25 18:53:07.525 INFO   [,]  [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor: - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-06-25 18:53:07.526 INFO   [,]  [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor: - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-06-25 18:53:10.513 INFO   [,]  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer: - Tomcat initialized with port(s): 8190 (http)
+2019-06-25 18:53:10.536 INFO   [,]  [restartedMain] o.a.catalina.core.StandardService: - Starting service [Tomcat]
+2019-06-25 18:53:10.536 INFO   [,]  [restartedMain] o.a.catalina.core.StandardEngine: - Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-06-25 18:53:10.673 INFO   [,]  [restartedMain] o.a.c.c.C.[.[.[/demo-stock-center]: - Initializing Spring embedded WebApplicationContext
+2019-06-25 18:53:10.674 INFO   [,]  [restartedMain] o.s.web.context.ContextLoader: - Root WebApplicationContext: initialization completed in 3147 ms
+2019-06-25 18:53:11.708 INFO   [,]  [restartedMain] com.zaxxer.hikari.HikariDataSource: - HikariPool-1 - Starting...
+2019-06-25 18:53:11.889 INFO   [,]  [restartedMain] com.zaxxer.hikari.HikariDataSource: - HikariPool-1 - Start completed.
+2019-06-25 18:53:12.205 INFO   [,]  [restartedMain] o.s.s.c.ThreadPoolTaskExecutor: - Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-25 18:53:12.633 INFO   [,]  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer: - LiveReload server is running on port 35729
+2019-06-25 18:53:12.746 INFO   [,]  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer: - Tomcat started on port(s): 8190 (http) with context path '/demo-stock-center'
+2019-06-25 18:53:12.751 INFO   [,]  [restartedMain] c.z.s.s.DemoStockCenterProviderApplication: - Started DemoStockCenterProviderApplication in 6.576 seconds (JVM running for 9.813)
+2019-06-25 18:54:37.034 INFO   [,]  [nio-8190-exec-3] o.a.c.c.C.[.[.[/demo-stock-center]: - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-06-25 18:54:37.034 INFO   [,]  [nio-8190-exec-3] o.s.web.servlet.DispatcherServlet: - Initializing Servlet 'dispatcherServlet'
+2019-06-25 18:54:37.048 INFO   [,]  [nio-8190-exec-3] o.s.web.servlet.DispatcherServlet: - Completed initialization in 14 ms
